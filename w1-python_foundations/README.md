@@ -2,7 +2,7 @@
 
 This Repository contains foundational Python scripts that I wrote during the first week of my backend engineering preparation.
 
-## What's Inside
+## Contains:
 
 - `calculator.py`: A command-line calculator using Python functions
 - `student_grades.py`: Script using dictionaries to manage student records
