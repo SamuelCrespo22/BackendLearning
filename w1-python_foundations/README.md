@@ -4,7 +4,8 @@ This Repository contains foundational Python scripts that I wrote during the fir
 
 ## Contains:
 
-- `calculator.py`: A command-line calculator using Python functions
+- `calculator.py`: CLI calculator using functions.
+- `fibonacci.py`: Module containing a function that calculates the nth fibonacci number.
 - `student_grades.py`: Script using dictionaries to manage student records
 - `greetings_writer.py`: Reads a text file and writes personalized greetings
 - `oop_students.py`: Simple OOP example with classes and inheritance
