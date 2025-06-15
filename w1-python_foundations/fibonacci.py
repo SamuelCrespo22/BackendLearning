@@ -10,8 +10,8 @@ def nth_fibonacci_number(n):
     elif n <= 2: return 1
     else:
         prev_num, curr_num = 1, 1
-        for i in range(3, n+1):
-            prev_num, curr_num = curr_num, prev_num+curr_num
+        for i in range(3, n + 1):
+            prev_num, curr_num = curr_num, prev_num + curr_num
         return curr_num
 
 if __name__ == "__main__":
